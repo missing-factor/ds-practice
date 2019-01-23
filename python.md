@@ -1,6 +1,6 @@
 ## Python practice
 
-| First Header  | Second Header |
+| Day  | Material |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1  | https://codingbat.com/python |
+|    | https://www.learnpython.org/ |
